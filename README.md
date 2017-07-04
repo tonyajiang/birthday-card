@@ -1,3 +1,2 @@
-# hello-world
-test repository
-hello world my name is tonya
+# Birthday Card
+basic HTML and CSS birthday card I made a while ago for CSE330 module 1
